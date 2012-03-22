@@ -17,7 +17,7 @@ group :assets do
   gem 'uglifier'
 end
 
-group :developement do
+group :developement, :test do
   gem 'rspec-rails', '2.0.1'
 end
 
