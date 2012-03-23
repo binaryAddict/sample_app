@@ -1,2 +1,2 @@
-requires 'autotest/growl'
-requires 'autotest/fsevent'
+require 'autotest/growl'
+require 'autotest/fsevent'
